@@ -1,0 +1,14 @@
+mockboot\Email.class
+mockboot\ContactMethods.class
+mockboot\MockBootApplication.class
+mockboot\RandomGenerator.class
+mockboot\Address.class
+mockboot\PolicyReference.class
+mockboot\Contact.class
+mockboot\PolicyDetails.class
+mockboot\CustomerAccount.class
+mockboot\ContactMethod.class
+mockboot\MockService.class
+mockboot\PolicyReferences.class
+mockboot\MockController.class
+mockboot\Phone.class
